@@ -1,0 +1,2 @@
+# shrik.com
+Demo page
